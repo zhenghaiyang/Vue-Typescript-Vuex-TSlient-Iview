@@ -1,0 +1,86 @@
+{
+  "code":200,
+  "data":[
+    {
+      "name": "张三1",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三2",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "2"
+    },
+    {
+      "name": "张三3",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三4",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三5",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三6",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "2"
+    },
+    {
+      "name": "张三7",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "2"
+    },
+    {
+      "name": "张三8",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三9",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    },
+    {
+      "name": "张三10",
+      "role": "主管，主管2",
+      "department": "商务部",
+      "remark": "备注备注",
+      "userName": "ocean",
+      "sex": "1"
+    }
+  ],
+  "msg":"操作成功"
+}
